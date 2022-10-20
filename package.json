@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "color": "1.0.3",
-    "expo": "28.0.0",
+    "expo": "46.0.16",
     "local-storage": "^1.4.2",
     "lodash": "4.13.1",
     "moment": "^2.23.0",
